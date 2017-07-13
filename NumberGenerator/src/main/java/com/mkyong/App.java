@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!...\n Welcome to Java \n this is build 3.0" );
+        System.out.println( "Hello World!...\n Jnekins Build automation started" );
     }
 }
